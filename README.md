@@ -1,2 +1,2 @@
 # DSA
-This repo contains all the questions I solve through my DSA journey
+This repo contains what I solve through my DSA journey
